@@ -1,0 +1,15 @@
+
+
+
+
+
+/*estilos para el sub menú*/
+.sub-menu{
+  width: 100%;
+}
+.buttons{
+  padding: 10px;
+  border: 1px solid;
+  border-radius:10px;
+  display: inline-block;
+}
